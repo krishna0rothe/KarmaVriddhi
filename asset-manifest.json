@@ -1,27 +1,15 @@
 {
   "files": {
-    "main.css": "/karmavriddhi/static/css/main.cf890fdb.css",
-    "main.js": "/karmavriddhi/static/js/main.013ce515.js",
+    "main.css": "/karmavriddhi/static/css/main.81c5fdfa.css",
+    "main.js": "/karmavriddhi/static/js/main.5e1492ec.js",
     "static/js/453.437dfcb3.chunk.js": "/karmavriddhi/static/js/453.437dfcb3.chunk.js",
-    "static/media/dhruvin.png": "/karmavriddhi/static/media/dhruvin.2007897df0f3a26c5faf.png",
-    "static/media/diya.png": "/karmavriddhi/static/media/diya.bd95beae276d24e5f936.png",
-    "static/media/krushna4.png": "/karmavriddhi/static/media/krushna4.7ca34051547ecb3fa4f9.png",
-    "static/media/Harshit.jpg": "/karmavriddhi/static/media/Harshit.26dbb41bef7c5b1675a7.jpg",
-    "static/media/poonam_mam.jpg": "/karmavriddhi/static/media/poonam_mam.46a366d25b9a32e18b2b.jpg",
-    "static/media/gov.png": "/karmavriddhi/static/media/gov.62df4daadac84c353d78.png",
-    "static/media/amita_mam.jpg": "/karmavriddhi/static/media/amita_mam.5a3ae89cdbf81fed7003.jpg",
-    "static/media/ayush.jpg": "/karmavriddhi/static/media/ayush.7a26ceca0024c27f943d.jpg",
-    "static/media/startup.png": "/karmavriddhi/static/media/startup.3a773693e8e91c5cdd68.png",
     "index.html": "/karmavriddhi/index.html",
-    "static/media/twitter.svg": "/karmavriddhi/static/media/twitter.410a9d14144a810542330f7d951ff2cf.svg",
-    "static/media/linkedin.svg": "/karmavriddhi/static/media/linkedin.9e52cf326e0bbf3cd9a3378906c0d35c.svg",
-    "static/media/facebook.svg": "/karmavriddhi/static/media/facebook.54b6ed1796ae51e7991a86b99ceb8334.svg",
-    "main.cf890fdb.css.map": "/karmavriddhi/static/css/main.cf890fdb.css.map",
-    "main.013ce515.js.map": "/karmavriddhi/static/js/main.013ce515.js.map",
+    "main.81c5fdfa.css.map": "/karmavriddhi/static/css/main.81c5fdfa.css.map",
+    "main.5e1492ec.js.map": "/karmavriddhi/static/js/main.5e1492ec.js.map",
     "453.437dfcb3.chunk.js.map": "/karmavriddhi/static/js/453.437dfcb3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf890fdb.css",
-    "static/js/main.013ce515.js"
+    "static/css/main.81c5fdfa.css",
+    "static/js/main.5e1492ec.js"
   ]
 }
