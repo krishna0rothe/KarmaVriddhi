@@ -14,7 +14,7 @@ import FundingRequestsPage from "./pages/StartupDashboard/FundingRequestsPage";
 import IPRManagementPage from "./pages/StartupDashboard/IPRManagementPage";
 import StartupSettingsPage from "./pages/StartupDashboard/StartupSettingsPage";
 import StartupMentorshipPage from "./pages/StartupDashboard/MentorshipPage";
-import HomePage from "./pages/GSIPLandingPage";
+import HomePage from "./pages/LandingPage";
 
 function App() {
   return (
